@@ -1,6 +1,6 @@
 {
    "printWidth": 100,
-   "tabWidth": 3,
+   "tabWidth": 2,
    "quoteProps": "as-needed",
    "singleQuote": true
 }
